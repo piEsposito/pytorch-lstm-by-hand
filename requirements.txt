@@ -1,7 +1,6 @@
 torch
 sklearn
 numpy
-blitz-bayesian-pytorch
 seaborn
 matplotlib
 tqdm
